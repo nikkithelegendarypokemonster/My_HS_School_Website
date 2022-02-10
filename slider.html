@@ -1,0 +1,67 @@
+<html>
+<style>
+*{
+margin:0;
+padding:0;}
+#slider{
+overflow:hidden;
+}
+#slider figure {
+display:block;
+float:left;
+height:100%;
+width:80%;}
+#slider figure{
+overflow:hidden;
+position:relative;
+width:500%;
+animation: 60s motion infinite;
+}
+@keyframes motion{
+0%{left:0%;}
+6%{left:0%;}
+9%{left:-100%;}
+16%{left:-100%;}
+20%{left:-200%;}
+28%{left:-200%;}
+37%{left:-300%;}
+46%{left:-300%;}
+57%{left:-400%;}
+68%{left:-400%;}
+73%{left:-300%;}
+78%{left:-300%;}
+84%{left:-200%;}
+89%{left:-200%;}
+93%{left:-100%;}
+98%{left:-100%;}
+100%{left:0;}
+110%{left:0;}
+
+
+
+</style>
+<body>
+<div id="slider">
+<figure>
+<div class="slide">
+<img src="pictures/slider/slide1.png" height="300px" style="float:left;width:20%;height:100%;display:block" >
+</div>
+<div class="slide">
+<img src="pictures/slider/slide2.png" height="300px" style="float:left;width:20%;height:100%;display:block">
+</div>
+<div class="slide">
+<img src="pictures/slider/slide3.png" height="300px" style="float:left;width:20%;height:100%;display:block">
+</div>
+<div class="slide">
+<img src="pictures/slider/slide4.png"  height="300px" style="float:left;width:20%;height:100%;display:block">
+</div>
+<div class="slide">
+<img src="pictures/slider/slide5.png" height="300px" style="float:left;width:20%;height:100%;display:block">
+</div>
+<div class="slide">
+<img src="pictures/slider/slide6.png" height="10px" style="float:left;width:20%;height:100%;display:block">
+</div>
+</figure>
+</div>
+</body>
+</html>

@@ -1,0 +1,150 @@
+<div class="video-container">
+<video muted autoplay>
+<source src="" type="video/mp4">
+</video>
+</div>
+<div class="title-logos-banner">
+<div class="title-logos" style="overflow:hidden;;">
+<font face="Trebuchet MS" >
+<p style="border:5px solid blue;float:left;padding:20px;">
+Events
+</p>
+</font>
+<font face="Trebuchet MS" >
+<p style="border:5px solid blue;float:right;padding:20px;margin-right:470px;">
+Achievements
+</p>
+</font>
+</div>
+</div>
+
+
+<div class="words-container" style="overflow:hidden;">
+<div class="side-1" style="overflow:hidden;display:inline-block;">
+<div class="box1" style="overflow:hidden;float:left;border:5px solid blue;">
+<font face="arial">
+<h1 style="font-size:27px;white-space:pre-wrap;margin:20px 20px;padding:0;line-height:30px;">
+It is not about<b> REMEMBERING</b> the  days… 
+<center>
+We remember the  <b>MOMENTS</b>
+</center>
+</h1>
+<style>
+li.events{
+white-space:pre-wrap;
+margin:20px;
+}
+.hover-w{
+user-select:none;
+}
+.hover-w:hover{
+color:blue;
+cursor:pointer;
+}
+.hover-w:active{
+color:#00007f;
+cursor:pointer;
+}
+</style>
+<li class="events">	<b id="a" class="hover-w">Festival of Words</b>
+                  13 December 2017
+                   Junior and Senior Kinder
+</li>
+<li class="events">	<b id="b" class="hover-w">Family Day</b>
+                   12 December 2017
+</li>
+<li class="events">	<b id="c" class="hover-w">Second Quarter Academic Recognition</b>
+                    20 November 2017
+                    Preschool and Primary
+</li>
+<li class="events">	<b id="d" class="hover-w">Boy Scouts and Senior Scouts Investitures</b>
+                    25 November 2017
+</li>
+<li class="events"><b id="e" class="hover-w">Crissa Dance 12 Synergy</b>
+                   Market Market Global City
+                   21 October 2017
+</li>
+
+
+</font>
+</div>
+</div>
+
+
+
+
+<div class="side-2" style="overflow:hidden;display:inline-block;">
+<div class="box2" style="overflow:hidden;float:right;border:5px solid blue;">
+
+
+<font face="arial">
+<h1 style="white-space:pre-wrap;margin:20px 20px;padding:0;line-height:20px;">
+You made it… We are so proud of you
+<center>
+ …CONGRATS!
+</center>
+</h1>
+<style>
+li.events{
+white-space:pre-wrap;
+margin:20px;
+}
+</style>
+<li class="events"><b id="f" class="hover-w">3rd runner-up in on the Spot Mixed Media</b> 
+                    15 December 
+                    Carlsonn Guillarte     
+
+</li>
+<li class="events">	<b id="g" class="hover-w">4th Placer in ROBOCUP 2017 </b>
+                   5 December 2017
+                   Selected HS Students
+
+</li>
+<li class="events">	<b id="h" class="hover-w">5th place in the Essay Writing Contest </b>
+                   20 November 2017  
+                   Blaze Ysabelle Cereno       
+</li>
+<li class="events">	<b id="i" class="hover-w">Oral presentation at HAMAKA Pilipinas Research </b>
+                    23 November 2017      
+                    Selected Faculty and Students   
+</li>
+<li class="events"><b id="j" class="hover-w">SEVENTH PLACE in the Video-Making Competition </b>
+                   19 November 2017
+                   “Sa Aking Pagmulat”
+
+</li>
+
+
+</font>
+</div>
+</div>
+</div>
+<style>
+.announcement-btn{
+overflow:hidden;
+background-color:green;
+float:left;
+padding:10px;
+border-right:5px solid grey;
+border-bottom:5px solid grey;
+user-select:none;
+}
+.announcement-btn:hover{
+border:0;
+transform:scale(0.9);
+}
+.announcement-btn:active{
+border:0;
+transform:scale(0.9);
+filter:brightness(30%);
+}
+</style>
+<div class="announcement-btn" style="">  
+<a href="announcements.html" style="text-decoration:none;">
+<font face="Helvetica" color="white">
+<p>
+Announcements
+</p>
+</font>
+</a>
+</div>

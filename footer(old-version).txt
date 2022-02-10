@@ -1,0 +1,109 @@
+<div id="l-footer">
+<div class="logo-2">
+<center>
+<img src="pictures/logo.png" width="120px" height="100px">
+</center>
+<font face="Old English Text MT" color="white">
+<h1 class="head-2">
+San Felipe Neri Parochial School
+</h1>
+</font>
+</div>
+<div class="follow">
+<div class="mySites">
+<style>
+div.mySites{
+margin-top:0;
+padding:0;
+width:100%;
+height:auto;
+float:left;
+}
+img{
+padding-left:25px;}
+a.follow{
+padding:0;
+margin:0;
+}
+img.twitter-logo{
+margin:0;
+padding-bottom:15px;}
+</style>
+<center><font face="Trebuchet MS" color="orange"><p class="follow" style="margin:0;padding:0;">Find & Follow us on:</p></font></center>
+<a class="follow" href="https://www.facebook.com/groups/638886982874086/" title="OFFICIAL San Felipe Neri Parochial School">
+<img class="facebook-logo" src="pictures/facebook.png" width="60px" height="60px"></a>
+
+<a class="follow" href="https://www.facebook.com/groups/638886982874086/" title="OFFICIAL San Felipe Neri Parochial School">
+<img class="twitter-logo" src="pictures/twitter.png" width="60px" height="20px" style="padding-bottom:25px;"></a>
+</div>
+
+<center>
+<font face="Trebuchet MS" color="orange">
+<p class="footer" style="margin:0;padding:0;margin-top:20px;">
+Created By: 
+</p>
+</font>
+</center>
+
+
+<style>
+.myWeb{
+overflow:hidden;
+text-align:center;
+width:100%;
+}
+.myWeb .f-link h1{
+margin:0;
+padding:0;
+text-decoration:none;}
+.f-link{
+text-decoration:none;
+}
+a.f-link{
+color:orange;
+}
+a.f-link:hover{
+color:#7f5200;
+background-color:#00004c;}
+</style>
+<div class="myWeb">
+
+<center>
+<font face="Trebuchet MS" size="2">
+<a class="f-link" href="www.google.com"><h1>6-MonkeyTEERS</h1></a>
+</font>
+</center>
+</footer>
+</div>
+</div>
+
+<style>
+div.Contacts{
+margin:0;
+padding:0;
+
+display:inline-block;
+}
+</style>
+<div class="Contacts">
+<div class="contact-num">
+<font face="Trebuchet MS" color="orange"><p class="contacts">
+Address:<br>85 A.T. Reyes St., Poblacion, Mandaluyong City</br>
+</p></font>
+<font face="Trebuchet MS" color="orange"><p class="contacts">
+Telephone No. :<br>(02) 570.6673 | 535.5351</br>
+</p></font>
+<font face="Trebuchet MS" color="orange"><p class="contacts">
+Fax No. :<br>(02) 531.0697 | 534.9880</br>
+</p></font>
+</div>
+
+</div>
+
+
+
+
+
+
+
+</div>

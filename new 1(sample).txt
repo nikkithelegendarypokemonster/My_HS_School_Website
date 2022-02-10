@@ -1,0 +1,53 @@
+<div class="body-wrapper">
+<div class="admission">
+<video width="400px"height="300px" autoplay loop muted style="border:5px solid blue;">
+<source src="admission.mp4" type="video/mp4">
+</div>
+<div class="Grants" style="margin:20px;display:inline-block;">
+<h1>gesgre</h1>
+
+</div>
+</div>
+<font face="Trebuchet MS" >
+<h1 class="grants" style="padding:20px;">
+Grants & Subsidies
+</h1>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="Grants" style="float:right;margin:0px;border:5px solid blue;width:700px;">
+<font face="Trebuchet MS" color="#00007f" >
+<h1 class="grants" style="padding:0px;display:inline-block;">
+Grants & Subsidies
+</h1></font>
+
+<div class="1st-layer" style="margin:20px;">
+<img src="Checkmark.png"width="80px"height="70px" style="float:left;">
+<div class="wording" style="display:inline-block;margin:0;padding:0;">
+<font face="Trebuchet MS">
+<h1 style="color:black;margin:0;padding:0;">
+grant1
+</h1>
+</font>
+</div>
+</div>
+<div class="2nd layer">
+<img src="Checkmark.png"width="80px"height="70px" style="float:left;">
+<div class="wording" style="display:inline-block;margin:0;padding:0;">
+<font face="Trebuchet MS">
+<h1 style="color:black;margin:0;padding:0;">
+grant1
+</h1>
+</font>
+</div>
+
+</div>

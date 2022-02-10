@@ -1,0 +1,482 @@
+<html>
+<head>
+</head>
+<body>
+<style>
+body{
+width:100%;
+height:auto;
+margin:0;
+padding:0;}
+</style>
+<body bgcolor="#ccc">
+<div id="wrapper-head">
+<style>
+#wrapper-head{
+width:100%;
+margin:0;
+overflow:hidden;}
+h1{
+padding:20px;
+padding-left:100px;}
+</style>
+<center><font size="4" face="Old English Text MT" color=" white"><h1 style="background-color:#000099; margin:0;padding:20px;">San Felipe Neri Parochial School</h1></font></center>
+</div>
+<style>
+#sub-header{
+margin:0;
+padding:0;}
+
+</style>
+<div id="sub-header">
+<center><font size="5" face="verdana" color="white"><p style="background-color:#0000e5;margin-top:0;margin:0;padding:10px;">I am an Apostle and so are you...</p></font></center>
+</div>
+
+<style>
+#nav{
+margin:0;
+padding:0;
+width:100%;
+height:auto;
+}
+.navbar{
+overflow:hidden;
+display:block;}
+a.n{
+color:white;
+text-decoration:none;
+padding:15px;
+float:right;}
+a.g{
+background-color:#000099;
+color:white;
+text-decoration:none;
+padding:15px;
+float:right;}
+a.n:hover{
+transition:background-color 1s linear;
+background-color:#000099;}
+</style>
+<div id="nav">
+<div class="navbar" style="background-color:#0000ff;">
+<font size="3" face="Trebuchet MS">
+<a class="n" href="www.facebook.com"><p>FAQ</p></a>
+<a class="n" href="www.facebook.com"><p>Products</p></a>
+<a class="g" href="updates.html"><p>Updates</p></a>
+<a class="n" href="www.facebook.com"><p>Facillities</p></a>
+<a class="n" href="new 1.html"><p>Admission</p></a>
+<a class="n" href="About.html"><p>Abouts</p></a>
+</font>
+</div>
+</div>
+
+<style>
+p.ad-part{ 
+display:block;
+font-size:50px;
+color:white;
+padding:0px;
+margin:0;
+transform:rotate(-90deg);
+}
+#conts{
+overflow:hidden;
+float:left;
+background-color:#000099;
+padding:50px;
+}
+</style>
+
+<div id="aull-container" style="display:flex;">
+<div id="conts">
+<div class="ad-wrapper" style="margin:0;padding:0;display:block;overflow:hidden;width:50px;">
+<center>
+<font face="Trebuchet MS">
+<p class="ad-part">s</p>
+<p class="ad-part">e</p>
+<p class="ad-part">t</p>
+<p class="ad-part">a</p>
+<p class="ad-part">d</p>
+<p class="ad-part">p</p>
+<p class="ad-part">U</p>
+<br></br>
+<p class="ad-part">l</p>
+<p class="ad-part">o</p>
+<p class="ad-part">o</p>
+<p class="ad-part">h</p>
+<p class="ad-part">c</p>
+<p class="ad-part">S</p>
+</font>
+</center>
+</div>
+</div>
+
+<div class="body" style="margin:0;padding:0;width:100%;height:auto;overflow:hidden;">
+<center>
+<div id="buttons" style="margin:0;padding:0px;width:100%;overflow:hidden;">
+<style>
+.vents, .announce, .acheive{
+cursor:pointer;
+user-select:none;
+display:inline-block;
+}
+</style>
+
+<script>
+function Events(){
+document.getElementById("events").setAttribute("style","overflow:hidden;margin:30px;padding:20;background-color:blue;border-radius:12px;");
+document.getElementById("announce").setAttribute("style","display:none;");
+document.getElementById("achievements").setAttribute("style","display:none;");
+}
+</script>
+<div class="vents" onclick="Events()" style="display:inline-block;;background-color:green;
+padding:10px;padding-left:50px;padding-right:50px;margin:30px;width:112;">
+<center><font face="verdana" size="3" color="white"><p style="display:block;padding-left:30px;padding-right:30px;padding:0;">
+Events
+</p>
+</div>
+
+
+<script>
+function Achievements(){
+document.getElementById("events").setAttribute("style","display:none;");
+document.getElementById("announce").setAttribute("style","display:none;");
+document.getElementById("achievements").setAttribute("style","overflow:hidden;margin:30px;padding:20;background-color:blue;border-radius:12px;");
+}
+</script>
+<div class="acheive" onclick="Achievements()" style="background-color:blue;
+padding:10px;;padding-left:30px;padding-right:30px;margin:30px;display:inline-block;">
+<center><font face="verdana" size="3" color="white"><p style="padding-left:30px;padding-right:30px;padding:0;">
+Achievements
+</p>
+</div>
+
+
+<script>
+function Announcements(){
+document.getElementById("achievements").setAttribute("style","display:none;");
+document.getElementById("events").setAttribute("style","display:none;");
+document.getElementById("announce").setAttribute("style","overflow:hidden;margin:30px;padding:20;background-color:blue;border-radius:12px;");
+}
+</script>
+<div class="announce" onclick="Announcements()" style="background-color:red;
+padding:10px;padding-left:30px;padding-right:30px;margin:30px;display:inline-block;">
+<center><font face="verdana" size="3" color="white"><p style="display:block;padding-left:30px;padding-right:30px;padding:0;">
+Announcements
+</p>
+</div>
+</div>
+</center>
+
+
+<div id="events" style="overflow:hidden;margin:30px;padding:20;background-color:blue;border-radius:12px;">
+
+</div>
+
+<div id="achievements" style="display:none;">
+<div id="acheive-header" style="margin:0;padding:0;overflow:hidden;">
+<center>
+<font face="Trebuchet MS" color="#00007f">
+<h1 class="acheive-header" style="background-color:white;padding:20px;display:inline-block;border-radius:12px;">
+Achievements
+</h1>
+</font>
+<br>
+<img src = "congrats.jpg" width="300px" height="100px">
+</br>
+</center>
+</div>
+
+
+
+
+
+<div id="one-layer" style="margin-top:30px;overflow:hidden;">
+<div class="imagesinabox" style="background-color:white;margin:10px;padding:20px;display:inline-block;border-radius:12px;overflow:hidden;
+float:left;">
+<center>
+<img class="pic1" src="artistic.jpg" width="360px" height="280px">
+</center>
+<font color="#00007f"><p class="ghi" style="">15 December<br>Carlson Guillarte</br>
+<font color="red">
+<b style="margin:0;padding:0;">
+3<sup>rd</sup> Runner Up in <br>
+Spot Mixed Media Art Competition</br></b>
+</font>
+</p>
+</font>
+</div>
+
+<div class="imagesinabox" style="background-color:white;margin-bottom:10px;margin-top:5px;padding:0px;padding-bottom:25px;
+overflow:hidden;display:inline-block;
+float:right;border-radius:12px;">
+<img class="pic1" src="robocup.jpg" width="280px" height="280px" style="display:block;overflow:hidden;float:left;">
+<img class="pic1" src="teamwork shit.jpg" width="280px" height="280px" style="display:block;overflow:hidden;float:left;">
+<br></br>
+<p class="ghi" style="float:left;color:#00007f;padding:20px;">5 December<br>
+<font color="#00007f">SFNPS participation in</font>
+</br><font color="red"><b>ROBOCUP Competition 2017</b></font></br></p>
+</div>
+</div>
+
+
+<div id="two-layer" style="margin:0px;overflow:hidden;">
+<div class="imagesinabox" style="background-color:white;padding:20px;display:inline-block;border-radius:12px;overflow:hidden;float:left;">
+<center>
+<img class="pic1" src="little girl.jpg" width="350px" height="380px">
+</center>
+<p class="ghi" style="color:#00007f;">20 November
+<br>Blaaze Yzabell Cerreno</br><font color="red">
+<b style="margin:0;padding:0;">
+5th Place in Essay Writing 
+<br>
+at the City Of Mandaluyong
+</br>
+</b></font></p>
+</div>
+<div class="imagesinabox" style="background-color:white;padding:0px;
+overflow:hidden;display:inline-block;
+float:right;border-radius:12px;height:auto;">
+<img class="picture1" src="hayop na research.jpg" width="520px" height="380px" style="display:block;overflow:hidden;float:left;padding:20px;">
+<p class="ghi" style="padding:20px;margin:0;color:#00007f;padding-bottom:70px;">23 November<br>
+<font color="red"><b>Oral Presentation in HAMAKA Pilipinas</b></font></br></p>
+</div>
+</div>
+
+
+<div id="three-layer" style="margin:0px;margin-left:180px;overflow:hidden;padding-right:100px;">
+<div class="imagesinabox" style="background-color:white;margin:10px;padding:20px;display:inline-block;border-radius:12px;overflow:hidden;">
+<img  src="drama.jpg" width="260px" height="280px" style="display:inline-block;margin:0;padding:0;">
+<video controls loop autoplay muted style ="width:330px;height:280px;border-radius:12px;display:inline-block;margin:0;padding:0;">
+<source src="dramadrama.mp4" type="video/mp4"></video>
+<font color="#00007f"><p class="ghi" style="">19 Novemmber
+<br>"SA AKING MULING PAGMULAT"</br>
+<font color="red">
+<b style="margin:0;padding:0;">
+7<sup>th</sup>Place in Video making Competition</b>
+</font>
+</p>
+</font>
+</div>
+</div>
+</div>
+
+
+
+<div id="announce" style="display:none">
+<center>
+<div class="announce-header" style="padding:0px;padding-bottom:0;margin:0;display:inline-block;background-color:white;border-radius:12px;">
+<font face="Trebuchet MS" color="#00007f"><h1 style="padding:20px;margin:0;overflow:hidden;">Important Announcements</h1></font>
+</div>
+</center>
+<center>
+<div class="anounce-header-sub" style="background-color:blue;padding:20px;margin:10px;display:inline-block;border-radius:12px;">
+<img src="ad pic.jpg" width="500px" height="300px">
+</div>
+</center>
+<center>
+<div class="post-body" style="background-color:blue;border-radius:12px;display:inline-block;padding:20px;">
+<img src="AP.jpg" width="400px" height="500px">
+</div>
+</center>
+<div class="last-post" style="display:block;margin:20px;padding:0;">
+<center>
+<div class="walang-pasok-pic" style="background-color:white;border-radius:12px;padding:20px;display:inline-block;">
+<img src="pasokwala.jpg" width="500px" height="200px">
+<font face="verdana" color="#00007f"><h1 class="possing" style="padding:0;">Keep safe Nerians <font color="red">!!!!</font></h1></font>
+<font face="verdana" color="#00007f"><p class="possing" style="padding:0;margin:0;">Noveber 10,2017 
+(Friday) <font color="RED" style="text-decoration:underline;text-decoration-color:red;"><b>ALL LEVELS</b></font></p></font>
+<font color="red" style="text-decoration:underline;text-decoration-color:red;"><p><b>NO CLASSES</b></font>
+<font face="verdana" color="#00007f">due to Typhoon Salome</p></font>
+</div>
+</center>
+
+<font color="yellow" face="verdana" >
+<style>
+.Warning{
+background-color:red;
+display:inline-block;
+padding:30px;
+margin:50px;
+
+}
+</style>
+<noscript>
+<center>
+<h1 class="Warning" color="yellow"> 
+You need javascript to run this website!!!! 
+</h1>
+</center>
+</font>
+</noscript>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</div>
+</div>
+</div>
+<style>
+#l-footer{
+width:100%;
+height:auto;
+margin:0;
+padding:0px;
+padding-right:200px;
+vertical-align:bottom;
+overflow:hidden;
+background-color:#000066;
+}
+
+div.follow{
+
+margin:20px;
+margin-top:30px;
+display:inline-block;
+padding-right:100px;}
+
+.logo-2{
+display:inline-block;
+margin:20px;
+margin-right:100px;
+padding:0;
+margin-left:100px;
+margin-top:50px;
+}
+
+</style>
+<div id="l-footer">
+<div class="logo-2">
+<center>
+<img src="pictures/logo.png" width="120px" height="100px">
+</center>
+<font face="Old English Text MT" color="white">
+<h1 class="head-2">
+San Felipe Neri Parochial School
+</h1>
+</font>
+</div>
+<div class="follow">
+<div class="mySites">
+<style>
+div.mySites{
+margin-top:0;
+padding:0;
+width:100%;
+height:auto;
+float:left;
+}
+img{
+padding-left:25px;}
+a.follow{
+padding:0;
+margin:0;
+}
+img.twitter-logo{
+margin:0;
+padding-bottom:15px;}
+</style>
+<center><font face="Trebuchet MS" color="orange"><p class="follow" style="margin:0;padding:0;">Find & Follow us on:</p></font></center>
+<a class="follow" href="https://www.facebook.com/groups/638886982874086/" title="OFFICIAL San Felipe Neri Parochial School">
+<img class="facebook-logo" src="pictures/facebook.png" width="60px" height="60px"></a>
+
+<a class="follow" href="https://www.facebook.com/groups/638886982874086/" title="OFFICIAL San Felipe Neri Parochial School">
+<img class="twitter-logo" src="pictures/twitter.png" width="60px" height="20px" style="padding-bottom:25px;"></a>
+</div>
+
+<center>
+<font face="Trebuchet MS" color="orange">
+<p class="footer" style="margin:0;padding:0;margin-top:20px;">
+Created By: 
+</p>
+</font>
+</center>
+
+
+<style>
+.myWeb{
+overflow:hidden;
+text-align:center;
+width:100%;
+}
+.myWeb .f-link h1{
+margin:0;
+padding:0;
+text-decoration:none;}
+.f-link{
+text-decoration:none;
+}
+a.f-link{
+color:orange;
+}
+a.f-link:hover{
+color:#7f5200;
+background-color:#00004c;}
+</style>
+<div class="myWeb">
+
+<center>
+<font face="Trebuchet MS" size="2">
+<a class="f-link" href="www.google.com"><h1>6-MonkeyTEERS</h1></a>
+</font>
+</center>
+</footer>
+</div>
+</div>
+
+<style>
+div.Contacts{
+margin:0;
+padding:0;
+
+display:inline-block;
+}
+</style>
+<div class="Contacts">
+<div class="contact-num">
+<font face="Trebuchet MS" color="orange"><p class="contacts">
+Address:<br>85 A.T. Reyes St., Poblacion, Mandaluyong City</br>
+</p></font>
+<font face="Trebuchet MS" color="orange"><p class="contacts">
+Telephone No. :<br>(02) 570.6673 | 535.5351</br>
+</p></font>
+<font face="Trebuchet MS" color="orange"><p class="contacts">
+Fax No. :<br>(02) 531.0697 | 534.9880</br>
+</p></font>
+</div>
+
+</div>
+
+
+
+
+
+
+
+</div>
+
+</body>
+
+
+
+
+
+
+
+</html>
